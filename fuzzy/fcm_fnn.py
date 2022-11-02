@@ -2,7 +2,7 @@ import math
 import random
 import copy
 
-
+# Get the values of pi and square-root of 2
 sqrt2 = math.sqrt(2)
 sqrtPi = math.sqrt(math.pi)
 
